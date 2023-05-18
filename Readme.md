@@ -1,4 +1,4 @@
-# API
+# API: https://us-central1-sum-prove.cloudfunctions.net/api
 
 ## Auth
 
